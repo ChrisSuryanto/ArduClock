@@ -11,7 +11,8 @@ This clock is purely displaying clock (hour, minute), and no day / month / year 
 
 
 # Schematics
-![Arduino_24hrs_Clock_Fonts_Schematics](https://github.com/ChrisSuryanto/ArduClock/assets/146957789/9d66605b-3abd-45f6-896e-ce897734b4d0)
+![Arduino_24hrs_Clock_Fonts_Schematics](https://github.com/ChrisSuryanto/ArduClock/assets/146957789/ccebea50-cb4d-432a-a28b-82b1c121781a)
+
 
 Diode on VCC line is 1N4007, or any other standard diode, just for protection, so 5V pin on Arduino will function as supply input only. LED matrix and RTC DS3231 will be powered from external supply only, not from arduino's 5v pin, thanks to diode's 1 way current direction characteristics.
 
