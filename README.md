@@ -22,4 +22,4 @@ It's merely breadboard style, so it's quite a mess, but the Arduino PCB with soc
 
 
 # Setup Manual
-![ARDUINO_DIGITAL_CLOCK](https://github.com/ChrisSuryanto/ArduClock/assets/146957789/7c782300-4dc5-46d8-887e-af18d6e7040e)
+![ARDUINO_DIGITAL_CLOCK](https://github.com/ChrisSuryanto/ArduClock/assets/146957789/3e80e28d-64dc-4a38-af6c-17c9dfaf4be5)
