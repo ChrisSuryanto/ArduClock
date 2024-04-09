@@ -2,8 +2,11 @@
 ![Title](https://github.com/ChrisSuryanto/ArduClock/assets/146957789/b192444e-e198-4f26-bc23-af38c74e7862)
 
 Arduino 24 Hours Clock using MAX7219 LED matrix display with selectable Fonts.
+
 Original code is from Youtube channel Mount Dynamics (https://www.youtube.com/watch?v=1rt031sYztw), with 12 hours clock. I modified the code to incorporate 24 hours, and added font selection feature.
+
 I build this using spare Arduino Nano and MAX7219 matrix display which I have been using in my previous DIY. So I just need to buy RTC DS3231 and other small parts for this.
+
 This clock is purely displaying clock (hour, minute), and no day / month / year will be displayed. Added font selection because I kind of curious how to properly arrange it to display, and what fonts are good or not good to use in this MAX7219.
 Schematics is just standard like many other arduino clock as follows.
 
