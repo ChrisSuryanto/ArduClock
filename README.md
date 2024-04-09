@@ -8,6 +8,7 @@ Original code is from Youtube channel Mount Dynamics (https://www.youtube.com/wa
 I build this using spare Arduino Nano and MAX7219 matrix display which I have been using in my previous DIY. So I just need to buy RTC DS3231 and other small parts for this.
 
 This clock is purely displaying clock (hour, minute), and no day / month / year will be displayed. Added font selection because I kind of curious how to properly arrange it to display, and what fonts are good or not good to use in this MAX7219.
+
 Schematics is just standard like many other arduino clock as follows.
 
 ![24Hrs_Arduino_Max7219_Clock-02_Schematics](https://github.com/ChrisSuryanto/ArduClock/assets/146957789/71fc351d-daf5-493b-aa3e-6c066500bdcc)
