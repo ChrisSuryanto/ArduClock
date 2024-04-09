@@ -1,5 +1,5 @@
 # ArduClock
-![Title](https://github.com/ChrisSuryanto/ArduClock/assets/146957789/b192444e-e198-4f26-bc23-af38c74e7862)
+[<img src="https://i.ytimg.com/vi/1q083EUeKJs/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=1q083EUeKJs "Arduino 24 Hours Digital clock using MAX7219 LED matrix with Fonts selection")
 
 Arduino 24 Hours Clock using MAX7219 LED matrix display with selectable Fonts.
 
